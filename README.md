@@ -1,5 +1,8 @@
 # ASP.NET CORE WEB API CRUD With Angular
 
+![Screenshot 2023-04-21 152804](https://user-images.githubusercontent.com/62230465/233601676-7b6312f7-4bcd-46a6-917b-ea03825e265a.png)
+
+
 ASP.NET Core Web API CRUD with Angular is a web application project that provides a basic implementation of a RESTful API using ASP.NET Core on the back end and Angular on the front end. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on a list of cards.
 
 The back end of the application is implemented using ASP.NET Core Web API, which provides a powerful and flexible framework for building web APIs. The API exposes a set of endpoints that allow clients to perform CRUD operations on the card data stored in a database. The API uses Entity Framework Core to interact with the database and perform operations like create, read, update, and delete.
